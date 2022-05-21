@@ -12,6 +12,14 @@ body{
 .container{
 	max-width: 1170px;
 	margin:auto;
+	position: relative;
+	padding: 2rem;
+    background-color: #13131a;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
 }
 .row{
 	display: flex;
